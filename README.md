@@ -51,6 +51,10 @@
 > If you see this, then everything is okay, and the software works.
 > The bot simulates a claim transaction and sends it when the claim starts.
 
+![alt example](https://img2.teletype.in/files/92/d6/92d691e5-439d-41b1-8162-b25667190f86.png)
+
+**When claim starts, bot will send the transactions.**
+
 ## Config setting
 **You can customize the config to your liking.**
 The config contains comments with descriptions for each parameter.
