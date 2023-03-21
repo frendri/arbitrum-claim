@@ -4,6 +4,7 @@
 
 - Import wallets from privateKeys and seedPhrases.
 - Receive token on different wallets.
+    + If you do not need a tokens transfer after claim, then leave the address blank.
 - Select different gasPrice/gasLimit on each wallet.
 - Support different proxy and nodes.
     + Proxy:
