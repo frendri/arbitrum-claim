@@ -1,4 +1,4 @@
-# Arbutrum Claim Bot
+# Arbitrum Claim Bot
 
 ## Features
 
